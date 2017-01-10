@@ -1,1 +1,1 @@
-docker build . -t janakiramm/web
+docker build . -t rajatparida86/web

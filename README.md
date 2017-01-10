@@ -1,4 +1,4 @@
-# kubernetes-101
+# kubernetes
 Tutorial to build and deploy a simple Python app in Kubernetes. The walkthrough is available [here](https://youtu.be/zeS6OyDoy78).
 
 Make sure that you have access to a Kubernetes cluster.
@@ -17,7 +17,7 @@ docker-compose up -d
 
 ## Test the app
 ```
-curl localhost:5000
+curl localhost:3000
 ```
 
 ## Deploy the app to Kubernetes
